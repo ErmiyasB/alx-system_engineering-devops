@@ -1,0 +1,1 @@
+pwd- full pathname of the current working directory.
