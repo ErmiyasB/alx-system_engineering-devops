@@ -9,3 +9,4 @@ mv file1 dir1- move the file file1 to directory dir1
 rm- delete the file
 rm -r- delete the directory
 cd - :-changes the working directory to the previous one
+ls -la../boot list all file even one with names beginning with period in the current directory and the parent of the working directory and the /boot directory in long format
