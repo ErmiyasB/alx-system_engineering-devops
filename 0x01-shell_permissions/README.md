@@ -1,0 +1,1 @@
+us betty -swiches the current user to the user betty
