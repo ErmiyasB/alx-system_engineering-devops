@@ -9,4 +9,4 @@ mv /tmp/betty /tmp/holberton- move the file betty from /tmp/ to /tmp/holberton
 rm /tmp/holberton/betty - delete the file betty the file betty is in /tmp/hoberton
 rm -r /tmp/holberton- delete the directory holberton that is in the /tmp directory
 cd - :-changes the working directory to the previous one
-ls -la../boot list all file even one with names beginning with period in the current directory and the parent of the working directory and the /boot directory in long format
+ls -la. .. /boot- list all file (even ones with names beginning with period character, which are normaly hidden)in the current directory and the parent of the working directory and the /boot directory(in this order) in long format
