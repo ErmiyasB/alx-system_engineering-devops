@@ -1,1 +1,7 @@
 su betty -swiches the current user to the user betty
+whoami - print the effective username of the current user
+groups -print all the groups the current user is part of
+chown betty hello -change the owner of the file hello to the user betty
+touch hello- creates an empty file called hello
+chmod u+x - adds execute permission to the owner of the file
+chmod 114 - execute permission to the owner and the group owner, andread permission to other users
